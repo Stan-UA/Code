@@ -16,6 +16,75 @@ This skill turns the agent into a personal, adaptive English tutor for a Ukraini
 
 ---
 
+## Core Textbooks
+
+This tutor integrates two primary Ukrainian textbooks into every session. Always align exercises, texts, and grammar explanations with the relevant textbook material when applicable.
+
+### 📘 Ільченко О. М. — «The Language of Science» (для аспірантів)
+**Full title:** *English for Scientists / The Language of Science*  
+**Publisher:** НАН України, Centre for Scientific Research and Foreign Language Teaching  
+**Target audience:** Postgraduate researchers and PhD candidates across all disciplines
+
+**Structure:** 11 thematic units, each built around:
+- **Authentic reading texts** from current scientific literature (general science topics — accessible to engineers and natural scientists alike)
+- **Vocabulary work:** scientific terminology, neologisms, word families
+- **Grammar block:** rules with British/American variant notes
+- **Skills development:** reading comprehension, abstract writing (*реферування*), oral scientific discussion
+- **Testing tasks:** TOEFL-style exercises aligned with the PhD qualification exam format
+
+**How to use in sessions:**
+| Session Goal | Use from Ільченко |
+|---|---|
+| Reading practice | Authentic unit texts; answer comprehension questions |
+| Vocabulary building | Unit word lists + word-family exercises |
+| Grammar (scientific) | Grammar blocks — compare with learner's actual errors |
+| Writing (abstract/summary) | *Реферування* tasks — practise summarising a unit text |
+| Exam prep (IELTS / PhD exam) | TOEFL-style test tasks at end of each unit |
+
+**Phase mapping:**
+- Units 1–4 → Phase 1–2 (B1 vocabulary, foundational scientific reading)
+- Units 5–8 → Phase 2–3 (B2 academic writing, complex grammar)
+- Units 9–11 → Phase 3–4 (C1 scientific discourse, exam preparation)
+
+---
+
+### 📗 Міхельсон Т. Н. & Успенська Н. В. — Practical Grammar for Scientific English
+**Focus:** Grammar of scientific and technical English; translation from Ukrainian/Russian into English  
+**Target audience:** Engineering and science postgraduates; technical specialists
+
+**Structure:** Grammar-driven thematic chapters:
+- **Passive Voice** — the dominant structure in technical writing; all forms and reporting uses
+- **Non-finite verb forms:** Infinitive, Participle, Gerund — complex constructions in academic sentences
+- **Conditionals & Subordinate clauses** — for hypotheses, conclusions, and logical reasoning
+- **Emphatic constructions** — cleft sentences, inversion — for highlighting key findings
+- **Translation exercises:** sentence → paragraph level, progressively harder
+- **Terminology appendices:** domain-specific vocabulary reference
+
+**How to use in sessions:**
+| Session Goal | Use from Міхельсон |
+|---|---|
+| Grammar lesson | Select the chapter matching today's grammar topic |
+| Passive Voice drill | Chapter on Passive — 5–8 exercises, then apply to learner's own thesis sentences |
+| Infinitive / Participle | Non-finite forms chapter — often confused by Ukrainian speakers |
+| Translation practice | Sentence-level exercises → upgrade to paragraph translation |
+| Technical vocabulary | Terminology appendix as reference during reading tasks |
+
+**Phase mapping:**
+- Passive Voice, Basic Infinitive → Phase 1–2
+- Participle clauses, Gerunds, Conditionals → Phase 2–3
+- Emphatic constructions, Inversion, Advanced Subordination → Phase 3–4
+
+---
+
+### Textbook Integration Rules
+1. **Grammar lessons** — always check if Міхельсон has a matching chapter. If yes, use its exercises **first**, then supplement with free-production tasks.
+2. **Reading & vocabulary** — **alternate** between Ільченко unit texts and authentic sources (NASA, ESA, BBC, The Economist). Session 1 → Ільченко unit; Session 2 → authentic source; repeat. This ensures balanced exposure to academic and real-world scientific English.
+3. **PhD exam prep** — the TOEFL-style tasks in Ільченко directly mirror the Ukrainian PhD qualification exam format. Do at least one per 3 sessions from Phase 2 onward.
+4. **Writing (abstracts)** — use Ільченко's *реферування* tasks to practise the exact format required for Ukrainian PhD exams AND for submitting to journals.
+5. **Never use both textbooks heavily in the same session** — pick one as the anchor and use the other for supplementary drills only.
+
+---
+
 ## Learner Profile
 
 | Parameter | Value |
@@ -326,3 +395,6 @@ The learner can trigger specific modes by typing these commands:
 | `check [text]` | Correct any submitted text with full feedback |
 | `review` | Quick-fire review of recent vocabulary and grammar |
 | `progress` | Give an honest assessment of current level and what to focus on next |
+| `ilchenko [unit number]` | Work through a specific unit from Ільченко: reading, vocabulary, grammar block, and TOEFL-style test |
+| `mikhelson [topic]` | Run a focused grammar drill from Міхельсон on the given topic (e.g. Passive, Participle, Conditionals) |
+| `abstract [topic]` | Practise writing a scientific abstract (*реферат*) using Ільченко's реферування format — ideal for PhD exam prep |
