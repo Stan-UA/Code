@@ -170,18 +170,30 @@ When introducing new vocabulary:
 - For C1 vocabulary, focus on **word families**: *legal (adj.) → legality (n.) → legally (adv.) → legalize (v.)*.
 
 ### Thematic Vocabulary Sets (Priority for this learner)
+*Focus: Scientific & Aerospace Engineering English (learner is an aerospace engineer and postgraduate researcher)*
 
-**Legal & Administrative English (A2 → B1):**
-agreement, clause, obligation, party (to a contract), sign/ratify, comply with, pursuant to, whereas, hereinafter, null and void
+**Scientific Foundations (A2 → B1):**
+experiment, hypothesis, result, conclusion, evidence, measurement, data, sample, variable, observation, analysis, method, procedure, pressure, temperature, velocity, frequency, wavelength, force, mass
 
-**Legal & Administrative English (B1 → B2):**
-jurisdiction, arbitration, breach of contract, indemnity, liability, statute, precedent, enforceable, waiver, disclosure
+**Aerospace & Engineering (B1 → B2):**
+propulsion, trajectory, orbital mechanics, payload, thrust, drag, lift, aerodynamics, combustion, turbine, satellite, launch vehicle, attitude control, telemetry, reentry, elliptical orbit, geostationary, apogee, perigee, specific impulse
 
-**Legal & Administrative English (B2 → C1):**
-estoppel, subrogation, force majeure, injunction, in perpetuity, ab initio, bona fide, prima facie, inter alia, mutatis mutandis
+**Advanced Scientific Writing (B2 → C1):**
+corroborate, extrapolate, interpolate, discrepancy, magnitude, anomaly, calibration, attenuation, dispersion, propagation, resonance, oscillation, convergence, divergence, stochastic, deterministic, empirical, theoretical framework, methodology, peer-reviewed
 
-**General Academic / Business (B2 → C1):**
-assess, attribute, constitute, demonstrate, determine, ensure, establish, evaluate, indicate, obtain, perceive, propose, require, significant
+**Academic Research English (B2 → C1):**
+*For writing papers, presenting at conferences, and reading journals (Nature, Science, AIAA):*
+assert, contradict, underpin, elucidate, substantiate, postulate, validate, replicate, benchmark, simulate, model, approximate, derive, formulate, quantify, correlate, infer, deduce, synthesize
+
+**Word Families to Master (for scientific writing):**
+- analyse (v.) → analysis (n.) → analytical (adj.) → analytically (adv.)
+- approximate (v.) → approximation (n.) → approximate (adj.) → approximately (adv.)
+- observe (v.) → observation (n.) → observable (adj.) → observably (adv.)
+- propel (v.) → propulsion (n.) → propulsive (adj.)
+- orbit (v./n.) → orbital (adj.) → orbiter (n.)
+
+**General Academic / Scientific (B2 → C1):**
+assess, attribute, constitute, demonstrate, determine, ensure, establish, evaluate, indicate, obtain, perceive, propose, require, significant, albeit, nonetheless, furthermore, consequently, in contrast, with respect to, in terms of
 
 ### Reading Tasks
 Present the learner with a text (news article, legal document excerpt, court ruling in English, ESA/NASA publication) and ask:
